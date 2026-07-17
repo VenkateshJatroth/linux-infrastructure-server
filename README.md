@@ -4,6 +4,12 @@
 > A production-style Linux Infrastructure project built on **Ubuntu Server 26.04 LTS** demonstrating Linux System Administration, Networking, Security, Web Hosting, Automation, and User Management.
 
 ---
+# 📘 Linux Infrastructure Server Handbook
+
+A complete 129-page handbook documenting the design, implementation, configuration, security, automation, and troubleshooting of a Linux Infrastructure Server built on Ubuntu Server.
+
+📄 **Download the Handbook:**
+- [The Linux Infrastructure Server Handbook (PDF)](docs/handbook/The%20Linux%20Infrastructure%20Server%20Handbook.pdf)
 
 ## 🚀 Project Overview
 
